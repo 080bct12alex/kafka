@@ -1,5 +1,5 @@
 # ADMIN
-![admin](https://i.ibb.co/GQrh9SQT/admin.jpg)
+![admin](https://ibb.co/DfjqY2fp)
 
 ---
 
