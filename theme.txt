@@ -4,7 +4,7 @@
 
 
        
-producer ===> kafka (store temporarily )===> consumer ===> Database 
-                |                    (insert at bulk)
+producer ===> kafka topics ===> consumer ===> Database 
+                |                       (insert at bulk)
                 |
                 topics ===>partition
