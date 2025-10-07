@@ -1,5 +1,5 @@
 # Introduction to Apache Kafka
-- Kafka is a  tool for solving significant problems in distributed systems. 
+- Kafka is a  **distributed, high-throughput, fault-tolerant event streaming platform**. 
 
 
 #### *The Problem Kafka Solves: Database Throughput Limitations*
